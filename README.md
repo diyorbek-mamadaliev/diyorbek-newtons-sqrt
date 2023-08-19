@@ -1,3 +1,7 @@
 # diyorbek-newtons-sqrt
 
-![Uploading MicrosoftTeams-image.png…]()
+
+## File Structure
+
+![Example](MicrosoftTeams-image.png)
+
